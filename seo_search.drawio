@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T07:11:11.648Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="LV0qDEZRZoOsT0dH-25v" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T07:14:07.414Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="PoNJODW08pp5PtyzE6k0" version="24.4.4" type="github">
   <diagram name="Page-1" id="HL-EhzjaIxrxedGsTlQi">
     <mxGraphModel dx="1113" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,8 +64,8 @@
         <mxCell id="Of4VmwByg9G7YErORbnD-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="560" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Of4VmwByg9G7YErORbnD-35" value="Footer Content (socials + links for selecting breeds)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="145" y="545" width="300" height="30" as="geometry" />
+        <mxCell id="Of4VmwByg9G7YErORbnD-35" value="Footer Content (socials + links for popular breeds)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="545" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Of4VmwByg9G7YErORbnD-36" value="30L Murrah Buffalo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="57" y="340" width="120" height="30" as="geometry" />
