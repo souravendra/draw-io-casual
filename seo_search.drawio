@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T05:52:04.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="t-Ms5l-jWOGD0ED7BmTU" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T05:54:47.379Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_cs7m-SXvi_eAM2sTyaY" version="24.4.7" type="github">
   <diagram name="Page-1" id="HL-EhzjaIxrxedGsTlQi">
     <mxGraphModel dx="1224" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,16 +149,34 @@
           <mxGeometry x="52.5" y="300" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BVAii4xaY5nyKQLo3ADb-13" value="Trending Searches" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="677" y="1085" width="150" height="30" as="geometry" />
+          <mxGeometry x="682" y="1010" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BVAii4xaY5nyKQLo3ADb-14" value="Search&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Filters&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="692" y="860" width="120" height="30" as="geometry" />
+          <mxGeometry x="682" y="860" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BVAii4xaY5nyKQLo3ADb-15" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#525251;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_core_device_location;" vertex="1" parent="1">
           <mxGeometry x="827.12" y="810.3100000000001" width="22.88" height="22.88" as="geometry" />
         </mxCell>
         <mxCell id="BVAii4xaY5nyKQLo3ADb-17" value="Gurugram" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="747.12" y="810.31" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVAii4xaY5nyKQLo3ADb-18" value="30L Murrah Buffalo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="692" y="1050" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVAii4xaY5nyKQLo3ADb-19" value="How to sell Haryanvi gaay" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="692" y="1085" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVAii4xaY5nyKQLo3ADb-20" value="I have problem X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="692" y="1120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVAii4xaY5nyKQLo3ADb-21" value="Milk Capacity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="692" y="890" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVAii4xaY5nyKQLo3ADb-22" value="Breed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="687.12" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVAii4xaY5nyKQLo3ADb-23" value="Lactation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="692" y="950" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
